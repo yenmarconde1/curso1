@@ -1,0 +1,67 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx--- 770  
+--------- 000
+rw-rw---- 660
+r-xr-xr-x 555
+---rw-r-x 065
+--x--x--x 111
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox.txt
+respuesta:
+
+
+
+-Cuanto pesa tu /home/ y cuanto pesa /etc
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+respuesta:
+
+
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+
+- Como matamos un proceso del computador
+
+- Que hace el respectivo comando $cat toto > toto2
+respuesta:
+no hace nada xq estos son dos directorios por lo tanto no se pueden abrir de esta forma.
+
+- Como puedo visualizar las particiones del disco duro
+respuesta:
+con el comando fdisk -l, luego presionamos enter.
+
+- Cree una carpeta con tu nombre:
+respuesta:
+ mkdir yenmarconde
+
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3 
+respuestas:
+cd yenmarconde 
+mkdir c1.txt
+mkdir c2.txt
+mkdir c3.txt
+
+- Guardamos en el c1 su nombre completo
+respuesta:
+echo Yenmar Conde> c1.txt
+
+- Guardamos el c3 el correo electrónico
+respuesta:
+echo yen.aby1@gmail.com> c3.txt
+
+- Describa a continuación la función de los siguientes directorios
+
+/bin  
+/home/ donde guardamos los archivo (escritorio)
+/media donde estan los archos de multimedia
+/var  
+/	raiz
+/sbin  
+/boot 
