@@ -1,4 +1,4 @@
-curso1
+Yenmar Conde curso1
 ======
 
-curso aanzado
+curso avanzado
